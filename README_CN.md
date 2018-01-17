@@ -1,5 +1,5 @@
 [English](https://github.com/lintianlin/MonthPicker) | **中文版** </br>
-MonthPicker
+QuantityControlView
 ==========
     一个数量控制控件，一般用于商城类app加减或修改商品数量
 
