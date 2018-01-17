@@ -6,7 +6,9 @@ QuantityControlView
 
   
 ScreenShot
-<div align=center><img width="216" height="384" src="https://github.com/lintianlin/MonthPicker/blob/master/Gif/quantityControlView.gif"/></div>
+<div align=center><img width="216" height="384" src="https://github.com/lintianlin/MonthPicker/blob/master/Gif/quantityControlView.gif"/>
+<img width="216" height="384" src="https://github.com/lintianlin/MonthPicker/blob/master/Gif/quantityControlView2.gif"/>
+</div>
 
   
 
